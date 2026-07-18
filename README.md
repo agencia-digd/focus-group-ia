@@ -78,6 +78,26 @@ Agora roda de novo com a headline reposicionada e compara.
 
 Veja `exemplo-relatorio.md` pra um relatório real (anonimizado).
 
+### Preview de uma saída real
+
+```
+Painel (8 personas) e probabilidade de compra
+┌──────────────────────────────┬───────┐
+│ cliente ideal (dor exata)    │  82%  │
+│ compradora serial de curso   │  88%  │
+│ jovem, quer escalar          │  68%  │
+│ nativa digital, cética preço │  55%  │
+│ leiga em tech, orçam. curto  │  35%  │
+│ veterana, cética com "robô"  │  35%  │
+└──────────────────────────────┴───────┘
+
+Objeção nº1 (5/8): "vou conseguir fazer sozinha?" → material gravado sem suporte assusta
+Achado de posicionamento: veteranas leram a promessa como "a máquina me substitui" e recuaram
+Recomendação: testar 2 headlines (a atual vs. uma que mantém o cliente NO CONTROLE)
+```
+
+O ouro está nas **objeções de quem NÃO comprou** — é o que você ajusta antes de gastar verba.
+
 ---
 
 ## Dicas de quem já rodou
